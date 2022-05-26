@@ -1,4 +1,4 @@
-👋 Hi, I’m Sing Bing Kang. I'm Distinguished Scientist at Zillow.
+👋 Hi, I’m Sing Bing Kang. I'm Distinguished Scientist at Zillow Group.
 
 <!---
 singbingk/singbingk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
